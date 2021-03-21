@@ -1,18 +1,8 @@
-# Desafio 01 - Criando um hook de carrinho de compras
+# Desafio 02 - Refactoring de classes e typescript
 
 Desafio do capítulo 2 da Trilha ReactJS da Rocketseat.
 
-O desafio é criar um hook de carrinho de compras e utiliza-lo na aplicação.
-
-Checklist:
-- Adicionar um novo produto ao carrinho;
-- Remover um produto do carrinho;
-- Alterar a quantidade de um produto no carrinho;
-- Cálculo dos preços sub-total e total do carrinho;
-- Validação de estoque;
-- Exibição de mensagens de erro;
-- Entre outros.
-
+O desafio é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
 ## Guide
 Para compilar a aplicação utilize a sequência: 
@@ -21,12 +11,6 @@ yarn
 yarn server
 yarn start
 ```
-
-Para verificar se a aplicação está correta utilize: 
-```
-yarn test
-```
-
 
 ## Built With
 
