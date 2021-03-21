@@ -1,6 +1,6 @@
-# Desafio 02 - Criando um hook de carrinho de compras
+# Desafio 01 - Criando um hook de carrinho de compras
 
-Desafio complementar do capítulo 2 da Trilha ReactJS da Rocketseat.
+Desafio principal do capítulo 2 da Trilha ReactJS da Rocketseat.
 
 O desafio é criar um hook de carrinho de compras e utiliza-lo na aplicação.
 
